@@ -1,0 +1,9 @@
+signup_icon:
+  type: string
+  default: "user"
+  description: "Add icon to Sign Up button."
+svg_icons: 
+  default: ""
+  type: "list"
+  list_type: "compact"
+  description: "List of FontAwesome 5 icons used in this theme component"
