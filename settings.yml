@@ -2,6 +2,10 @@ signup_icon:
   type: string
   default: "user"
   description: "Add icon to Sign Up button."
+login_icon:
+  type: string
+  default: "user"
+  description: "Add icon to Log In button."
 svg_icons: 
   default: ""
   type: "list"
